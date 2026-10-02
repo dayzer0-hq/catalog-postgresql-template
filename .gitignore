@@ -1,0 +1,7 @@
+# Local environment
+.env
+
+# psql / editor noise
+*.log
+.psql_history
+.DS_Store

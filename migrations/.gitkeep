@@ -1,0 +1,2 @@
+Your migrations go here as numbered SQL files, e.g. 0001_menu.sql.
+They apply in filename order. See the README.
